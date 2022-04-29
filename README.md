@@ -4,26 +4,28 @@
 <head>
   <meta charset="utf-8">
   <title>Aryan's Personal Site</title>
+  <link rel="stylesheet" href="css/black&white.css">
 </head>
-<table cellspacing="20">
-  <tbody>
-    <td><img src="Images/Circle.png" alt="Aryan's Sister" height="300" width="300"></td>
-    <td>
-      <h1>Aryan Grover</h1><em>
-        <p>A Coder</p>
-      </em>
-      <em>
-        <p>I Made a better looking <a href="https://gitaryancode.pythonanywhere.com/" target="_blank">portfolio</a> from <a href="https://www.djangoproject.com/" target="_blank">Django</a></p>
-      </em>
-      <p>I am a data scientest and a FullStack Dev. who can code in Python, HTML, CSS, JSON and with some Python Machine Learning. I have worked at the <a href="https://www.pythonera.org">PythonEra</a> Bootcamp where students teach students. And I am
-        on
-        <a href="https://www.linkedin.com/in/aryan-grover-7603591ba/" target="_blank">Linkden</a>
-      </p>
-    </td>
-  </tbody>
-</table>
 
 <body>
+  <table cellspacing="20">
+    <tbody>
+      <td><img src="Images/Circle.png" alt="Aryan's Sister" height="300" width="300"></td>
+      <td>
+        <h1>Aryan Grover</h1><em>
+          <p>A Coder</p>
+        </em>
+        <em>
+          <p>I Made a better looking <a href="https://gitaryancode.pythonanywhere.com/" target="_blank">portfolio</a> from <a href="https://www.djangoproject.com/" target="_blank">Django</a></p>
+        </em>
+        <p>I am a data scientest and a FullStack Dev. who can code in Python, HTML, CSS, JSON and with some Python Machine Learning. I have worked at the <a href="https://www.pythonera.org">PythonEra</a> Bootcamp where students teach students. And I
+          am
+          on
+          <a href="https://www.linkedin.com/in/aryan-grover-7603591ba/" target="_blank">Linkden</a>
+        </p>
+      </td>
+    </tbody>
+  </table>
 
   <hr>
   <h2><strong>Education</strong></h2>
@@ -47,7 +49,7 @@
     </li>
   </ul>
   <hr>
-  <h3>Work Experience</h3>
+  <h2>Work Experience</h2>
   <table cellspacing="10">
     <th>
       <tr>
@@ -71,7 +73,7 @@
   </table>
   <hr>
 
-  <h3>Skills</h3>
+  <h2>Skills</h2>
   <table cellspacing="10">
     <tbody>
       <tr>
@@ -97,3 +99,6 @@
   <hr>
   <a href="my_hobbies.html">My Hobbies</a>
   <a href="contact_me.html">Contact Me</a>
+</body>
+
+</html>
