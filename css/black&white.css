@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+      }
+
+form {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+table {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
